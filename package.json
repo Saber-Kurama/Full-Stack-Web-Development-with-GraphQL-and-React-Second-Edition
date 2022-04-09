@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-web-development-with-graphql-and-react-second-edition",
+  "version": "1.0.0",
+  "description": "Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition 书籍的demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saber-Kurama/Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saber-Kurama/Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition/issues"
+  },
+  "homepage": "https://github.com/Saber-Kurama/Full-Stack-Web-Development-with-GraphQL-and-React-Second-Edition#readme"
+}
